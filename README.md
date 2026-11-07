@@ -15,7 +15,7 @@ Built using:
 2. Tailwind CSS
 
 How to run:
-1. git clone https://github.com/bhoomika-b-s/subscriptiotracker.git
+1. git clone https://github.com/bhoomika-b-s/subscription_Tracker.git
 2. cd subscription-tracker
 3. npm install
 4. npm run dev
