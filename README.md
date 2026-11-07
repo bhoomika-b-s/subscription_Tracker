@@ -7,8 +7,9 @@ Suggests whether the subscription should be renewed or not based on its usage.
 Shows the existing subscriptions.
 
 Built using: 
-Next.js
-Tailwind CSS
+
+1. Next.js
+2. Tailwind CSS
 
 How to run:
 1. git clone https://github.com/bhoomika-b-s/subscriptiotracker.git
