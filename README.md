@@ -11,7 +11,7 @@ Next.js
 Tailwind CSS
 
 How to run:
-git clone https://github.com/bhoomika-b-s/subscriptiotracker.git
-cd subscription-tracker
-npm install
-npm run dev
+1. git clone https://github.com/bhoomika-b-s/subscriptiotracker.git
+2. cd subscription-tracker
+3. npm install
+4. npm run dev
